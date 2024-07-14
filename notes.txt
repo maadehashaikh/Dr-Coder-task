@@ -1,0 +1,43 @@
+<!-- attribute matlb whatever the properties are  -->
+   <!-- we learn about css inline internal and file css that are basically the types of css -->
+    <!-- Top priority css inline propert ki hoti h remember that  -->
+     <!-- In line css (Top priority)
+      In file css (Medium)
+      External css (Low but mostly used)
+     -->
+      <!-- Div a block level element -->
+
+       <!-- <div class="box1"></div>
+       <div class="box2">
+        <div class="box3"></div>
+       </div> -->
+
+
+       /* margin is the  outside space of the box  */
+/* TRBL (Top right bottom left) */
+/* margin mostly px mai layty hain  */
+/* Box size border box  */
+
+
+/* issue h kay padding jab hmny add ki na to padding say width mai 30px add ho gay but hm chahty hain kay padding add na ho width mai so that we can use box sizing border box */
+/* .box1{
+  width: 250px;
+  height: 200px;
+  background-color: rgb(228, 165, 69);
+  border: 2px solid black;
+  margin: 15px;
+}
+.box2{
+  width: 250px;
+  height: 200px;
+  background-color: rgb(166, 110, 166);
+  border: 2px solid black;
+  margin: 15px;
+}
+.box3{
+  width: 50px;
+  height: 50px;
+  background-color: rgb(88, 160, 236);
+  border: 2px solid black;
+  margin: 15px;
+} */
