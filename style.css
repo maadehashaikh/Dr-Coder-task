@@ -6,7 +6,7 @@
 .first{
   width: 1000px;
   border: 2px solid black;
-  height: 550px;
+  height: 535px;
   margin: 28px 150px;
 }
 .second{
@@ -27,15 +27,155 @@
   width: 690px;
   background-color: white;
   height: 176px;
+  padding: 10px 0  0 30px;  
+  /*        T   R  B  L  */
+}
+.greyleft{
+  width: 170px;
+  background-color: grey;
+  height: 22px;
+  border-radius: 5px; 
+  margin-left: 40px;
+  margin-top: 22px;
+  border: 1px solid black;
+}
+.greyMid{
+  width: 110px;
+  background-color: grey;
+  height: 22px;
+  border-radius: 5px; 
+  margin-left: 235px;
+  border: 1px solid black;
+}
+.greyright{
+  width: 180px;
+  background-color: grey;
+  height: 22px;
+  border-radius: 5px; 
+  margin-left: 380px;
+  margin-top: -40px;
+  border: 1px solid black;
+}
+.lastRed{
+  width: 260px;
+  background-color: red;
+  height: 22px;
+  border: 1px solid black;
+  margin-top: 80px;
+  margin-left: 170px;
+  border-radius: 10px;
 }
 .third_lower{
   width: 690px;
   background-color: skyblue;
   height: 230px;
+  padding:10px 0  0 30px ;
 }
-.greyleft{
-  width: 150px;
-  background-color: grey;
+.whiteleft{
+  width: 260px;
+  height: 180px;
+  background-color: white;
+  margin-top: 20px;
+  padding: 5px 0  0 15px ;
+}
+.greyRight{
+  width: 100px;
+  height: 22px;
+  margin-top: 15px;
+  background-color: gray;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.greyLeft{
+  width: 100px;
+  height: 22px;
+  background-color: gray;
+  margin-left: 130px;
+  margin-top: -21px;
+  border: 1px solid black; 
+  border-radius: 5px;
+}
+.greymid{
+  width: 180px;
+  height: 24px;
+  background-color: blue;
+  margin-left: 30px;
+  border: 1px solid black; 
+  margin-top: 105px;
+  border-radius: 5px;
+}
+.whiteright{
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  margin-left: 280px;
+  margin-top: -190px;
+  padding:  5px 0  0 15px ;
+}
+.whiteright .left{
+  width: 130px;
+  height: 190px;
+  padding: 5px 0 0 5px;
+}
+.whiteright .left .first{
+  width: 80px;
   height: 20px;
-  border-radius: 5px; 
+  background-color: blue;
+  margin-left: 5px;
+  border: 1px solid black;
+  margin-top: 12px;
+  border-radius: 5px;
 }
+.whiteright .left .second{
+  width: 80px;
+  height: 20px;
+  background-color: grey;
+  margin-left: 5px;
+  margin-top: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.whiteright .left .third{
+  width: 80px;
+  height: 20px;
+  background-color: blue;
+  margin-left: 5px;
+  border: 1px solid black;
+  margin-top: 55px; 
+  border-radius: 5px;
+}
+.whiteright .right{
+  width: 130px;
+  height: 190px;
+  padding: 5px 0 0 5px;
+  margin-left: 200px;
+  margin-top: -190px;
+}
+.whiteright .right .first{
+  width: 80px;
+  height: 20px;
+  background-color: gray;
+  margin-left: 5px;
+  border: 1px solid black;
+  margin-top: 12px;
+  border-radius: 5px;
+}
+.whiteright .right .second{
+  width: 80px;
+  height: 20px;
+  background-color: grey;
+  margin-left: 5px;
+  margin-top: 50px;
+  border: 1px solid black; 
+  border-radius: 5px;
+}
+.whiteright .right .third{
+  width: 80px;
+  height: 20px;
+  background-color: gray;
+  margin-left: 5px;
+  border: 1px solid black;
+  margin-top: 55px; 
+  border-radius: 5px;
+}
+
